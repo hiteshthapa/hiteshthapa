@@ -3,7 +3,7 @@
 
 - 🌱 I’m currently learning **JavaScript, Python and C**
 
-- 📫 My personal email **loganhitesh0026@gmail.com**
+- 📫 My personal email **hiteshthapaa@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
